@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AniLite</string>
+    <string name="swipetosign">Swipe up to sign in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="search">Search Anime…</string>
+
+</resources>
